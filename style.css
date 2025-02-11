@@ -194,8 +194,8 @@ h2 {
 
 @media screen and (max-width: 1250px) {
     .card-container {
-        display: block;
-        gap: 20px;
+        flex-direction: column;
+        gap: 10px;
         justify-items: center;
     }
 
